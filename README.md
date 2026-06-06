@@ -12,6 +12,8 @@ https://esp32-bluejammerflasher.pages.dev/
 
 <b1>slecet your esp32 and klick on connect</b1>
 
+<b1>Install the firmware :)</b1>
+
 <b1>comming soon</b1>
 
 <h2>how to find missing driver</h2>
