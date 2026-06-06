@@ -6,11 +6,15 @@
 
 https://esp32-bluejammerflasher.pages.dev/
 
+<h2>how to find missing driver</h2>
+
 <b1>select Gerneric and then Bluetooth-WiFi_80_CH</b1>
 
 <img width="1338" height="708" alt="image" src="https://github.com/user-attachments/assets/b66f8e09-f630-46d8-972a-e519d2e677f0" />
 
 <b1>when the esp32 dont show up you have to install the driver first</b1>
+
+<b1>click on cancel on another window will pop up</b1>
 
 <img width="564" height="424" alt="image" src="https://github.com/user-attachments/assets/c5c0f46d-5de4-49e0-a560-b88178fe5322" />
 
