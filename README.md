@@ -6,5 +6,5 @@
 
 https://esp32-bluejammerflasher.pages.dev/
 
-<img width="758" height="535" alt="image" src="https://github.com/user-attachments/assets/88f4b317-8dce-43ed-bee6-53ec2e43db4d" />
+<b1>select Bluetooth-WiFi_80_CH</b1>
 
