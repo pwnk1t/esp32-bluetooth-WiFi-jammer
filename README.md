@@ -1,5 +1,5 @@
 # esp32-Bluetooth-WiFi-jammer
 
-<img width="680" height="879" alt="image" src="https://github.com/user-attachments/assets/9426ffa5-1cbb-4a80-94c9-3f627fc51aaa" />
+<img width="846" height="913" alt="image" src="https://github.com/user-attachments/assets/74c0d993-38ca-49e3-95cc-a46b45e96e24" />
 
 
