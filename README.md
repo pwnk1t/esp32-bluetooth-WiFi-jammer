@@ -8,6 +8,10 @@ https://esp32-bluejammerflasher.pages.dev/
 
 <h2>Installation</h2>
 
+<b1>select Gerneric and then Bluetooth-WiFi_80_CH</b1>
+
+<b1>slecet your esp32 and klick on connect</b1>
+
 <b1>comming soon</b1>
 
 <h2>how to find missing driver</h2>
